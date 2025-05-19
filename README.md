@@ -1,7 +1,7 @@
 # DFL-Linux-Docker
 Deep Face Lab solution for Linux &amp; Docker for arm64 Jetson
 
-Sure! Here's the complete **English version** of the instructions tailored for your **Jetson AGX Orin 64GB** running **JetPack 6.2 (CUDA 12.2, cuDNN 8.9, TensorRT 8.6)** on **Ubuntu 22.04**.
+Here's the complete **English version** of the instructions tailored for your **Jetson AGX Orin 64GB** running **JetPack 6.2 (CUDA 12.2, cuDNN 8.9, TensorRT 8.6)** on **Ubuntu 22.04**.
 
 ---
 
